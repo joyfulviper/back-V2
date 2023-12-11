@@ -20,3 +20,4 @@ jobs:
           echo "Connected to the server"
           uptime
           whoami
+          ls
