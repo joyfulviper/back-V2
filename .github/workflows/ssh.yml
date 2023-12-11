@@ -22,3 +22,5 @@ jobs:
           cd app
           echo "build 실행"
           ./build.sh
+          ehoc "배포 실행"
+          ./deploy.sh
